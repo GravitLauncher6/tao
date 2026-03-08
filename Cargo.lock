@@ -2214,7 +2214,7 @@ dependencies = [
 
 [[package]]
 name = "tao"
-version = "0.34.5"
+version = "0.34.6"
 dependencies = [
  "bitflags 2.8.0",
  "block2",
@@ -2243,7 +2243,6 @@ dependencies = [
  "raw-window-handle 0.4.3",
  "raw-window-handle 0.5.2",
  "raw-window-handle 0.6.2",
- "scopeguard",
  "serde",
  "softbuffer",
  "tao-macros",
